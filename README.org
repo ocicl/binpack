@@ -1,0 +1,10 @@
+* binpack
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/lispgames/binpack.git   |
+| commit  | bbada6d  |
+| systems | binpack |
+|---------+-------------------------------------------|
+
